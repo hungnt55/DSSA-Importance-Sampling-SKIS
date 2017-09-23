@@ -2,7 +2,7 @@
 
 Information:
 --------------------------------------------------------
-Implementation of D-SSA Algorithms on SKIS Importance Sketch for Influence Maximization under Independent Cascade(IC) or Linear Threshold(LT) model. For more details about D-SSA, please read our paper: 
+Implementation of D-SSA Algorithms on SKIS Importance Sketch for Influence Maximization under Independent Cascade(IC) or Linear Threshold(LT) model. For more details about D-SSA, please read our paper:
 
 [H. T. Nguyen, M. T. Thai, and T. N. Dinh, Stop-and-Stare: Optimal Sampling Algorithms for Viral Marketing in Billion-scale Networks , in Proc. of the annual ACM SIGMOD/PODS Conference, 2016] (https://arxiv.org/abs/1605.07990)
 
